@@ -85,6 +85,14 @@ Let's understand the logging in spring boot
 
 * https://youtu.be/qQ-EO0o4pSQ
 
+### How to schedule the tasks in spring boot
+
+* https://youtu.be/rb9c5uiwOCY
+
+### How many ways we can run the spring boot application 
+
+* https://youtu.be/ZrS8u_dXgnM
+
 ## Let's get deeper and understand how spring boot works internally - 
 
 Below are the topics that can help in deep understanding of spring boot and can be game changer if you are appearing for the interviews - 
