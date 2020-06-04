@@ -139,6 +139,6 @@ One point - Spring is DAD of Spring Boot :P  :)
 
 You should checkout about the communication among different spring boot application. More specifically we call it - how to call another service from one service. How to collaborate among microservices.
 
-*** Looking forward for yout feedback on the description box of video or on facebook page as well https://facebbok.com/grenelearner
+*** Looking forward for yout feedback on the description box of video or on facebook page as well https://www.facebook.com/greenlearner
 
 # !!Thank You Very Much for Reading till the END!!
