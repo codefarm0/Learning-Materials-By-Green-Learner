@@ -2,6 +2,6 @@
 
 ## Getting Started With Spring Boot
 
-Check out - [Spring Boot Topic Wise](Free-Courses-By-Green-Learner/Getting-Started-With-Spring-Boot.md)
+Check out - [Spring Boot Topic Wise](Getting-Started-With-Spring-Boot.md)
 
 # !!Thank You Very Much for Reading till the END!!
