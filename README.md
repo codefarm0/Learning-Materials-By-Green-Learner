@@ -21,4 +21,14 @@ Check out - TODO. Videos are available on youtube channel. Listing here is pendi
 
 Check out -  TODO. Videos are available on youtube channel. Listing here is pending.
 
+## Etag Filter with Spring Boot
+
+Get complete informration about etag
+
+* Where you can apply it
+* Real time usecase example
+* Complete demo from scratch
+
+Link is here - [etagFilterDemo](https://github.com/greenlearner01/RandomButAwesome/tree/master/etagfilterdemo)
+
 # !!Thank You Very Much for Reading till the END!!
