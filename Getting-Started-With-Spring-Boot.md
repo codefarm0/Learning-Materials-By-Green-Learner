@@ -124,7 +124,7 @@ Failure analyzer helps in understading the error and exception messages in detai
 
 * https://youtu.be/Vt7zugDNZaU
 
-###  How to pur our own Custom Banner in Spring Boot Application
+###  How to create our own Custom Banner in Spring Boot Application
 
 * https://youtu.be/FOhfSjagIhQ
 
@@ -145,8 +145,8 @@ One point - Spring is DAD of Spring Boot :P  :)
 
 ### What next ..
 
-You should checkout about the communication among different spring boot application. More specifically we call it - how to call another service from one service. How to collaborate among microservices.
+You should checkout about the communication among different spring boot application. More specifically we call it - how to call another service from one service. How to collaborate among microservices. - [Topic wise details about microservices communication](https://github.com/greenlearner01/RestTemplate)
 
 *** Looking forward for yout feedback on the description box of video or on facebook page as well https://www.facebook.com/greenlearner
 
-# !!Thank You Very Much for Reading till the END!!
+# !!Thank You Very Much for your TIME!!
